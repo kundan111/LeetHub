@@ -1,6 +1,8 @@
 /* global oAuth2 */
 /* eslint no-undef: "error" */
 
+// adding a comment for testing
+
 let action = false;
 
 $('#authenticate').on('click', () => {
